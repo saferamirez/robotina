@@ -16,10 +16,10 @@ const main = async () => {
   await browser.close()
 }
 
-app.get("/", (req, res) => {
-  res.send("Hola mundo")
-})
-
 app.listen(3000, () => {
   console.log("http://localhost:3000")
+})
+
+app.get("/", (req, res) => {
+  res.send("Hola mundo")
 })
