@@ -9,6 +9,7 @@
   "author": "Saul Felipe Ramirez",
   "license": "ISC",
   "dependencies": {
+    "puppeteer": "^1.17.0",
     "puppeteer-core": "^1.17.0"
   }
 }
