@@ -10,7 +10,7 @@
   "author": "Saul Felipe Ramirez",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "puppeteer": "^1.17.0",
     "puppeteer-core": "^1.17.0"
   }
